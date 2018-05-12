@@ -1,0 +1,33 @@
+_repo: BilingualismQuebec-Tuesday-March-28th-1916_25040
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Belcourt, N. A. (Napoléon-Antoine)
+    alias: Belcourt, N. A. (Napoleon-Antoine)
+    birthdate: 1860
+    deathdate: 1932
+    gutenberg_agent_id: '28363'
+    url: http://www.gutenberg.org/2009/agents/28363
+    wikipedia: http://en.wikipedia.org/wiki/Napol%C3%A9on_Belcourt
+description: ''
+gutenberg_issued: '2008-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25040'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Speeches, addresses, etc.'
+- !lcsh 'Language policy -- Ontario'
+- !lcc 'P'
+- !lcsh 'Education, Bilingual -- Ontario'
+- !lcc 'LC'
+- !lcsh 'Bilingualism'
+title: "Bilingualism: Address delivered before the Quebec Canadian Club\r\nAt Quebec,\
+  \ Tuesday, March 28th, 1916"
+url: http://www.gutenberg.org/ebooks/25040
